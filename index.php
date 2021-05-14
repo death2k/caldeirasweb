@@ -1,173 +1,31 @@
-<!--
-Author: Flavio Ribeiro
--->
 <!doctype html>
 <html lang="pt-BR">
+
+<?php require_once './views/head.php'; ?>
  
 
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>Caldeiras EIT - As Caldeiras EIT contam com uma equipe técnica, para atendimentos 24 horas</title>
-
-    <!-- google fonts -->
-    <link href="//fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500;1,700&display=swap" rel="stylesheet">
-
-    <!-- Template CSS -->
-    <link rel="stylesheet" href="assets/css/style-starter.css">
-    <link rel="stylesheet" href="assets/css/menunav.css">
-  </head>
  
- 
-  
- 
-  <body>
+<body>
 
 <header>
     
-</header>
+</header> <!-- MENU HEADER -->
 
 
-    
-<!--header-->
-<!--
 
-    <header id="site-header" class="fixed-top">
-  <div class="container">
 
-    <nav class="navbar navbar-expand-lg navbar-dark stroke">
-      <h1>
-        <a class="navbar-brand" href="index.html">
-          <img src="./assets/images/logonovo.png" alt="" srcset="" style="max-width: 226px;">  CALDEIRAS EIT </a>
-      </h1>
-      <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
-        data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
-        aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
-        <span class="navbar-toggler-icon fa icon-close fa-times"></span>
-        </span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        <ul class="navbar-nav mx-lg-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item @@about__active">
-            <a class="nav-link" href="about.html">Empresa</a>
-          </li>
-          <li class="nav-item @@services__active">
-            <a class="nav-link" href="services.html">Equipamentos</a>
-          </li>
-          <li class="nav-item @@services__active">
-            <a class="nav-link" href="services.html">Caldeiras</a>
-          </li>
-          <li class="nav-item @@contact__active">
-            <a class="nav-link" href="contact.html">Localização</a>
-          </li>
-        </ul>
-      </div>
-
-      <div class="top-quote mr-lg-2 mt-lg-0 mt-3 d-lg-block d-none">
-        <a href="contact.html" class="btn btn-style btn-primary">Contato</a>
-      </div>
-     
-      <div class="mobile-position">
-        <nav class="navigation">
-          <div class="theme-switch-wrapper">
-            <label class="theme-switch" for="checkbox">
-              <input type="checkbox" id="checkbox">
-              <div class="mode-container py-1">
-                <i class="gg-sun"></i>
-                <i class="gg-moon"></i>
-              </div>
-            </label>
-          </div>
-        </nav>
-      </div>
-    </nav>
-  </div>
-</header>
-
- --> 
 
 <!--/header-->
-<!-- main-slider -->
-<section class="w3l-main-slider" id="home">
-    <div class="companies20-content">
-        <div class="owl-one owl-carousel owl-theme">
-            <div class="item">
-                <li>
-                    <div class="slider-info banner-view bg bg2">
-                        <div class="banner-info">
-                            <div class="container">
-                                <div class="banner-info-bg">
-                                    <h5>Teste de escrita Caldeiras Eit <span>Teste de Cor</span> Serviços</h5>
-                                    <p class="mt-4 pr-lg-4">Teste de escrita Caldeiras Eit 
-                                        Teste de escrita Caldeiras Eit  </p>
-                                    <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="about.html"> Learn
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </div>
-            <div class="item">
-                <li>
-                    <div class="slider-info  banner-view banner-top1 bg bg2">
-                        <div class="banner-info">
-                            <div class="container">
-                                <div class="banner-info-bg">
-                                    <h5>Teste de escrita Caldeiras Eit  <span>Teste de escrita Caldeiras Eit </span> Teste de escrita Caldeiras Eit </h5>
-                                    <p class="mt-4 pr-lg-4">Teste de escrita Caldeiras Eit  </p>
-                                    <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="about.html"> Learn
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </div>
-            <div class="item">
-                <li>
-                    <div class="slider-info banner-view banner-top2 bg bg2">
-                        <div class="banner-info">
-                            <div class="container">
-                                <div class="banner-info-bg">
-                                    <h5>Teste de escrita Caldeiras Eit  <span>Teste de escrita Caldeiras Eit </span> Teste de escrita Caldeiras Eit </h5>
-                                    <p class="mt-4 pr-lg-4">Teste de escrita Caldeiras Eit  </p>
-                                    <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="about.html"> Learn
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </div>
-            <div class="item">
-                <li>
-                    <div class="slider-info banner-view banner-top3 bg bg2">
-                        <div class="banner-info">
-                            <div class="container">
-                                <div class="banner-info-bg">
-                                    <h5>Teste de escrita Caldeiras Eit  <span>Teste de escrita Caldeiras Eit </span> Teste de escrita Caldeiras Eit </h5>
-                                    <p class="mt-4 pr-lg-4">Teste de escrita Caldeiras Eit  </p>
-                                    <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="about.html"> Learn
-                                        More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </div>
-        </div>
-    </div>
-</section>
+
+
+<?php require_once './views/slide-img.php'; ?>
+
 <!-- /main-slider -->
+
+
+
+
+
 <div class="w3l-grids-slider pt-5" id="about">
     <div class="container ">
         <div class="w3l-customers row my-lg-5 my-sm-4">

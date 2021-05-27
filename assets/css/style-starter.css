@@ -136,11 +136,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #fe5a0e;
+  color: #60bfdd;;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #bf3d01;
+    color: #2c89a5;;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -1825,26 +1825,26 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fe5a0e;
-  border-color: #fe5a0e; }
+  background-color: #60bfdd;;
+  border-color: #60bfdd;; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #e54901;
-    border-color: #d84501; }
+    background-color: #348da9;;
+    border-color: #2b7991;; }
   .btn-primary:focus, .btn-primary.focus {
     color: #fff;
-    background-color: #e54901;
-    border-color: #d84501;
+    background-color: #60bfdd;;
+    border-color: #60bfdd;;
     box-shadow: 0 0 0 0.2rem rgba(254, 115, 50, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff;
-    background-color: #fe5a0e;
-    border-color: #fe5a0e; }
+    background-color: #60bfdd;;
+    border-color: #60bfdd;; }
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
   .show > .btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #d84501;
-    border-color: #cb4101; }
+    background-color: #60bfdd;;
+    border-color: #60bfdd;; }
     .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(254, 115, 50, 0.5); }
@@ -10189,7 +10189,7 @@ nav ul li a:hover {
 .w3l-main-slider .banner-info-bg h5 span {
   font-weight: 700;
   font-family: 'Playfair Display', serif;
-  color: var(--primary-color); }
+  color: #60bfdd; }
 
 .w3l-main-slider .banner-info-bg p {
   color: #f3f3f3; }
@@ -10198,7 +10198,7 @@ nav ul li a:hover {
   margin: 24px 0; }
 
 .w3l-main-slider .banner-info-bg span.fa {
-  color: var(--primary-color); }
+  color: #60bfdd; }
 
 .w3l-main-slider ul.banner-ul span.fa {
   color: var(--para-color); }
